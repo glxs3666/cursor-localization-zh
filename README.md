@@ -41,11 +41,11 @@ Cursor 官方目前尚未提供中文界面或汉化包。常见做法是安装 
 
 ## 界面截图
 
-<img width="2002" height="1360" alt="Cursor exe_20260604_000934" src="https://github.com/user-attachments/assets/b043419d-3ab1-4d26-a36a-9618694df310" />
+> 缩略图可秒开，点击任意图可查看原始大图。
 
-<img width="2000" height="1360" alt="Cursor exe_20260604_000214" src="https://github.com/user-attachments/assets/3cd64d40-3d3b-435e-8a46-7bfa17c06434" />
-
-<img width="2000" height="1360" alt="Cursor exe_20260604_001901" src="https://github.com/user-attachments/assets/d06f3f34-6896-470a-a75d-192cbdf268b5" />
+<a href="https://github.com/user-attachments/assets/b043419d-3ab1-4d26-a36a-9618694df310"><img width="260" alt="Cursor 汉化效果截图 1" src="https://github.com/user-attachments/assets/b043419d-3ab1-4d26-a36a-9618694df310" /></a>
+<a href="https://github.com/user-attachments/assets/3cd64d40-3d3b-435e-8a46-7bfa17c06434"><img width="260" alt="Cursor 汉化效果截图 2" src="https://github.com/user-attachments/assets/3cd64d40-3d3b-435e-8a46-7bfa17c06434" /></a>
+<a href="https://github.com/user-attachments/assets/d06f3f34-6896-470a-a75d-192cbdf268b5"><img width="260" alt="Cursor 汉化效果截图 3" src="https://github.com/user-attachments/assets/d06f3f34-6896-470a-a75d-192cbdf268b5" /></a>
 
 
 ## 如何使用
