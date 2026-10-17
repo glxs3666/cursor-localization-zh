@@ -1196,6 +1196,36 @@
       "regex": "^([\\d,.]+(?:K|M)?)\\s+out of\\s+([\\d,.]+(?:K|M)?)\\s+tokens$",
       "flags": "i",
       "replacement": "$1 / $2 token"
+    },
+    {
+      "regex": "^Analyze recent commits for high-severity.*$",
+      "flags": "i",
+      "replacement": "分析最近的提交，找出高危或影响正确性的缺陷并提交修复。"
+    },
+    {
+      "regex": "^Review the full repository on a schedule.*$",
+      "flags": "i",
+      "replacement": "定期审查整个代码库，在高影响问题被放大之前发现并告警。"
+    },
+    {
+      "regex": "^Generate and update developer documentation for recently changed.*$",
+      "flags": "i",
+      "replacement": "为最近变更的代码生成并更新开发者文档。"
+    },
+    {
+      "regex": "^Review recent changes and add tests for.*$",
+      "flags": "i",
+      "replacement": "检查最近的改动，为缺乏充分测试的高风险逻辑补充测试。"
+    },
+    {
+      "regex": "^Post a daily Slack digest summarizing.*$",
+      "flags": "i",
+      "replacement": "每天在 Slack 推送一份摘要，汇总重要的仓库变更与风险。"
+    },
+    {
+      "regex": "^Review pull requests for exploitable.*$",
+      "flags": "i",
+      "replacement": "审查拉取请求中可被利用的安全问题，只对已验证的问题发出告警。"
     }
   ]
 }

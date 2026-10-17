@@ -11273,6 +11273,72 @@
           "文件、文件夹…"
         ]
       ]
+    },
+    {
+      "id": "用户补充词条-20261017-批次3",
+      "title": "用户补充词条（批次3：自动化页模板与骨架）",
+      "entries": [
+        [
+          "Find critical bugs",
+          "查找严重缺陷"
+        ],
+        [
+          "Summarize changes daily",
+          "每日变更摘要"
+        ],
+        [
+          "Scan codebase for vulnerabilities",
+          "扫描代码库漏洞"
+        ],
+        [
+          "Investigate top Datadog errors",
+          "排查 Datadog 高频报错"
+        ],
+        [
+          "Generate docs",
+          "生成文档"
+        ],
+        [
+          "Add test coverage",
+          "补充测试覆盖"
+        ],
+        [
+          "Find vulnerabilities",
+          "查找安全漏洞"
+        ],
+        [
+          "Use",
+          "使用"
+        ],
+        [
+          "Scheduled",
+          "定时触发"
+        ],
+        [
+          "Send Slack",
+          "推送到 Slack"
+        ],
+        [
+          "PR opened",
+          "PR 创建时"
+        ],
+        [
+          "PR Comment",
+          "PR 评论时"
+        ],
+        [
+          "All Runs",
+          "全部运行"
+        ],
+        [
+          "Search...",
+          "搜索…"
+        ],
+        [
+          "Automate repetitive tasks with always-on agents and configure Cursor's built-in agents for your team.",
+          "用全天候运行的智能体自动执行重复任务，并配置 Cursor 为你的团队内置的智能体。"
+        ]
+      ]
     }
   ]
 }
